@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1344364441 source:c:\users\shivanth\documents\c\tests\lucky driver\main.c
+	<stdio.h>
+	<stdlib.h>
+
